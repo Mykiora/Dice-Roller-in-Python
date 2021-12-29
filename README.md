@@ -28,4 +28,4 @@ Right click on the program and select "open with" then choose Python.
 ***
 
 ## End note:
-I'm well aware that the program is not perfect and could have been written in a better way. As I said, this is my first project and I'm just an amateur.
+I'm well aware that the program is not perfect and could have been written in a better way. As I said, this is my first project. Plus, I'm just an amateur.
