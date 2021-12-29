@@ -1,5 +1,4 @@
 # Dice-Roller-in-Python
-Python version : 3.9
 
 ## Version of Python used : 3.9
 
