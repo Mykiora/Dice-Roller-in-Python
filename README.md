@@ -4,7 +4,7 @@
 
 ## How it works
 
-Hello, this program is my first Python Project. Basic: It Simulates random results of a dice throw based on two informations you'll need to choose :
+Hello, this program is my first Python Project. Basic: it Simulates random results of a dice throw based on two informations you'll need to choose :
 
 - The number of faces 
 - The number of dices
