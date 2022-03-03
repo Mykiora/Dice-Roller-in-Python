@@ -4,7 +4,7 @@
 
 ## How it works
 
-Hello, this program is my first Python Project. Basic: it simulates random results of a dice throw based on two informations you'll need to choose :
+Hello, this command line program is my first Python Project. Basic: it simulates random results of a dice throw based on two informations you'll need to choose :
 
 - The number of faces 
 - The number of dices
@@ -28,4 +28,4 @@ Right click on the program and select "open with" then choose Python.
 ***
 
 ## End note:
-I'm well aware that the program is not perfect and could have been written in a better way. As I said, this is my first project. Plus, I'm just an amateur.
+I'm well aware that the program is not perfect and could have been written in a better way. As I said, this is my first project.
