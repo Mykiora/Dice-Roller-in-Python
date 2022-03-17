@@ -13,6 +13,20 @@ It is looped so once you've made your choices, you can run as many dices as you 
 
 ***
 
+## Execution Example
+How many faces do you want for your dice ? (classic is 6)
+=> 10
+How many dices do you want to roll ?
+=> 4
+
+ 4D10
+Rolls results : 1, 5, 6, 8
+Total : 20
+Enter 'R' to roll again or anything else if you want to change dice =>
+
+
+***
+
 ## How to run it ?
 
 Of course, in order to run it, [Python](https://www.python.org/downloads/ "Download here") has to be installed on your computer.
